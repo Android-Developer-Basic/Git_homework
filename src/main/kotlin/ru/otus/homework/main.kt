@@ -8,7 +8,7 @@ fun main() {
     println("Divide Result: ${divide(4, 2)}")
     println("Reminder Result: ${remainder(5, 2)}")
 
-    println("Add Result: ${add(2, 2)}")
+    println("Add Result")
 
 }
 
