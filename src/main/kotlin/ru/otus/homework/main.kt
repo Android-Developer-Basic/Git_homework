@@ -5,9 +5,11 @@ fun main() {
 
     println("Add Result: ${add(2, 2)}")
     println("Subtract Result: ${subtract(4, 2)}")
-    println("Multiply Result: ${multiply(2, 2)}")
     println("Divide Result: ${divide(4, 2)}")
     println("Reminder Result: ${remainder(5, 2)}")
+
+    println("Add Result: ${add(2, 2)}")
+
 }
 
 fun add(a: Int, b: Int): Int {
