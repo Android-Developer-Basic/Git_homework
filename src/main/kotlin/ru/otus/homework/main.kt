@@ -9,6 +9,7 @@ fun main() {
     println("Reminder Result: ${remainder(5, 2)}")
 
     println("Add Result")
+    println("My name is Maksim")
 
 }
 
